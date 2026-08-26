@@ -1,4 +1,4 @@
-# FlameZ Media Website
+# Flamez Media Website
 
 This is the official website for Flamez Media.
 
